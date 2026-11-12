@@ -1,5 +1,14 @@
 (() => {
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const preloader = document.querySelector('.site-preloader');
+  const dismissPreloader = () => preloader?.classList.add('is-done');
+  window.addEventListener('load', () => window.setTimeout(dismissPreloader, 650), { once: true });
+  window.setTimeout(dismissPreloader, 2600);
+
+  const header = document.querySelector('.site-header');
+  const syncHeader = () => header?.classList.toggle('scrolled', window.scrollY > 24);
+  syncHeader();
+  window.addEventListener('scroll', syncHeader, { passive: true });
   const revealItems = document.querySelectorAll('.reveal');
   if ('IntersectionObserver' in window && !reduceMotion) {
     const observer = new IntersectionObserver((entries, obs) => {
