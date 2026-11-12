@@ -56,10 +56,54 @@ body:before{z-index:-2;background:radial-gradient(ellipse at 78% 12%,rgba(54,202
 @media(max-width:600px){.hero{padding-top:55px}.hero h1{letter-spacing:-4px}.hero-stage{min-height:480px}.stage-card{width:100%;padding:15px;transform:none}.stage-float{font-size:7px}.float-top{right:0;top:25px}.float-bottom{left:0;bottom:28px}.expertise-grid{grid-template-columns:1fr}.expertise-card{min-height:225px}.work-card{grid-template-columns:1fr}.work-art{min-height:260px}.cyber-grid-floor{height:45%;bottom:-20%;background-size:42px 42px}.cyber-ring{min-width:300px;min-height:300px}.reveal{transform:translateY(22px)}}
 @media(prefers-reduced-motion:reduce){.cyber-grid-floor,.cyber-ring{animation:none}.reveal{opacity:1;transform:none}}
 
+
+/* CINEMATIC REFERENCE-INSPIRED EXPERIENCE */
+.site-preloader{position:fixed;inset:0;z-index:10000;display:grid;place-content:center;justify-items:center;gap:17px;background:#030711;color:#eafaff;transition:transform 1s cubic-bezier(.76,0,.24,1),opacity .65s ease}
+.site-preloader.is-done{transform:translateY(-105%);opacity:0;pointer-events:none}
+.preloader-mark{font:700 clamp(54px,9vw,88px)/1 "Space Grotesk",sans-serif;letter-spacing:-7px;text-shadow:0 0 42px rgba(88,230,255,.28)}
+.preloader-mark span{color:#58e6ff}
+.preloader-track{width:min(220px,55vw);height:2px;background:rgba(88,230,255,.15);overflow:hidden}
+.preloader-track span{display:block;width:100%;height:100%;background:#58e6ff;transform:scaleX(0);transform-origin:left;animation:preloadSweep 1.45s ease forwards}
+.site-preloader p,.site-preloader small{margin:0;color:#b5d4e6;font:9px "DM Mono",monospace;letter-spacing:2px}
+.site-preloader small{color:#647f99;font-size:7px}
+@keyframes preloadSweep{to{transform:scaleX(1)}}
+.hero-stage{isolation:isolate}
+.cyber-webgl{position:absolute;z-index:1;inset:-9% -12%;width:124%;height:118%;pointer-events:none;opacity:.94;filter:drop-shadow(0 0 24px rgba(54,190,255,.15))}
+.stage-card{z-index:2}
+.stage-orbit{z-index:0}
+.stage-float{z-index:3}
+.hero-stage:after{content:"";position:absolute;z-index:1;inset:0;pointer-events:none;background:radial-gradient(ellipse at center,transparent 35%,rgba(5,9,22,.18) 78%)}
+.hero-stage .stage-card{backdrop-filter:blur(7px)}
+.hero-copy .eyebrow{border:1px solid rgba(88,230,255,.18);background:rgba(5,18,38,.45);width:max-content;padding:9px 12px}
+.hero-buttons .button{min-height:47px}
+.button-light{background:linear-gradient(110deg,#58e6ff,#9beaff);color:#04101c}
+.button-line:hover{background:rgba(88,230,255,.08);box-shadow:0 0 25px rgba(88,230,255,.1)}
+.site-header{transition:background .3s,border-color .3s,box-shadow .3s}
+.site-header.scrolled{background:rgba(3,8,20,.94);border-color:rgba(88,230,255,.22);box-shadow:0 12px 35px #0005}
+.nav a{position:relative}
+.nav a:not(.nav-cta):after{content:"";position:absolute;left:0;right:100%;bottom:-8px;height:1px;background:#58e6ff;transition:right .3s}
+.nav a:not(.nav-cta):hover:after,.nav a.active:after{right:0}
+.expertise-card,.work-card,.stage-card{backface-visibility:hidden}
+.work-card{overflow:hidden}
+.work-art{position:relative}
+.work-art:after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(125deg,transparent 30%,rgba(88,230,255,.07),transparent 70%);transform:translateX(-110%);transition:transform .8s}
+.work-card:hover .work-art:after{transform:translateX(110%)}
+.section-heading-row .section-title h2,.section-title h2,.contact-heading h2{text-wrap:balance}
+@media(max-width:900px){.cyber-webgl{inset:-5% -18%;width:136%;height:112%;opacity:.65}}
+@media(max-width:600px){.site-preloader p{font-size:8px;letter-spacing:1.2px}.cyber-webgl{inset:0 -22%;width:145%;height:100%;opacity:.48}.hero-stage:after{background:radial-gradient(ellipse at center,transparent 20%,rgba(5,9,22,.3) 85%)}.hero-copy .eyebrow{font-size:7px;letter-spacing:.7px}.site-header.scrolled{backdrop-filter:blur(16px)}}
+@media(prefers-reduced-motion:reduce){.site-preloader{transition:none}.preloader-track span{animation:none;transform:scaleX(1)}}
+
   </style>
-  <script defer src="./assets/js/main.js?v=20261112d"></script>
+  <script defer src="./assets/js/main.js?v=20261112e"></script>
+  <script type="module" src="./assets/js/cyber-scene.js?v=20261112a"></script>
 </head>
 <body>
+  <div class="site-preloader" role="status" aria-label="Loading portfolio">
+    <div class="preloader-mark">S<span>/</span>R</div>
+    <div class="preloader-track"><span></span></div>
+    <p>INITIALIZING SECURITY OPERATIONS</p>
+    <small>PORTFOLIO ENVIRONMENT / 2026</small>
+  </div>
   <div class="grain" aria-hidden="true"></div>
   <div class="cyber-scene" aria-hidden="true"><div class="cyber-grid-floor"></div><div class="cyber-ring"></div></div>
   <div class="ambient ambient-a" aria-hidden="true"></div>
