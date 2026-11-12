@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Sudhakar Reddy — Cybersecurity and SOC Analyst Portfolio</title>
-  <desc id="desc">A professional dark navy banner with subtle teal network motifs.</desc>
+  <title id="title">Onteddu Sudhakar Reddy — SOC Analyst Portfolio</title>
+  <desc id="desc">Professional security operations portfolio banner with a dark navy background and subtle network activity motif.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0A0E27"/>
-      <stop offset="1" stop-color="#111B35"/>
+      <stop offset="0" stop-color="#080D1D"/>
+      <stop offset="1" stop-color="#14243A"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22D3A6"/>
-      <stop offset="1" stop-color="#60A5FA"/>
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
     </linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#9FB4D0" stroke-opacity=".07" stroke-width="1"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9FB4D0" stroke-opacity=".06"/>
     </pattern>
   </defs>
-  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
   <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".55">
-    <path d="M850 62L960 112L1080 68L1150 132L1040 218L910 190L850 62Z"/>
-    <path d="M960 112L1040 218M1080 68L1040 218M910 190L1150 132"/>
+    <path d="M850 76L965 118L1080 72L1140 152L1030 228L900 196L850 76Z"/>
+    <path d="M965 118L1030 228M1080 72L1030 228M900 196L1140 152"/>
   </g>
-  <g fill="#22D3A6" opacity=".9">
-    <circle cx="850" cy="62" r="5"/><circle cx="960" cy="112" r="5"/>
-    <circle cx="1080" cy="68" r="5"/><circle cx="1150" cy="132" r="5"/>
-    <circle cx="1040" cy="218" r="5"/><circle cx="910" cy="190" r="5"/>
+  <g fill="#2DD4BF">
+    <circle cx="850" cy="76" r="5"/><circle cx="965" cy="118" r="5"/>
+    <circle cx="1080" cy="72" r="5"/><circle cx="1140" cy="152" r="5"/>
+    <circle cx="1030" cy="228" r="5"/><circle cx="900" cy="196" r="5"/>
   </g>
-  <rect x="72" y="65" width="5" height="190" rx="2.5" fill="url(#accent)"/>
-  <text x="105" y="130" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="1">ONTEDDU SUDAKHAR REDDY</text>
-  <text x="108" y="178" fill="#22D3A6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="3">CYBERSECURITY • SOC ANALYSIS</text>
-  <text x="108" y="220" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Security monitoring · Log analysis · Python automation</text>
-  <text x="108" y="270" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">LEARN  /  INVESTIGATE  /  DEFEND</text>
-  <path d="M72 288H1128" stroke="#22D3A6" stroke-opacity=".25"/>
+  <rect x="72" y="64" width="4" height="192" rx="2" fill="url(#accent)"/>
+  <text x="104" y="126" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing=".5">ONTEDDU SUDAKHAR REDDY</text>
+  <text x="106" y="174" fill="#5EEAD4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="3">SOC ANALYST PORTFOLIO</text>
+  <text x="106" y="215" fill="#D2DCE8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">SECURITY MONITORING  /  LOG ANALYSIS  /  INCIDENT TRIAGE</text>
+  <text x="106" y="266" fill="#91A4B9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">BLUE TEAM  •  DETECTION  •  DEFENSIVE SECURITY</text>
+  <path d="M72 289H1128" stroke="#2DD4BF" stroke-opacity=".28"/>
 </svg>
