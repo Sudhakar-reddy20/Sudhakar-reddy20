@@ -58,7 +58,8 @@ $ ./current_focus.sh
 
 | Operation | Status |
 |---|---|
-| **ThreatLens** — Python SOC log analysis platform | Building |
+| **ThreatLens** — Python SOC log analysis platform | Improving |
+| **Windows Event Log Analyzer** — exported Windows Security Event XML triage | Building |
 | Linux security investigations | Practicing |
 | Threat detection & incident response | Learning |
 | Security automation with Python | Building |
@@ -78,6 +79,17 @@ An evidence-driven Python SOC log analysis and threat detection platform.
 - Includes automated tests with pytest.
 
 [![Open ThreatLens](https://img.shields.io/badge/OPEN%20PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=07140b)](https://github.com/Sudhakar-reddy20/threatlens)
+
+
+### [Windows Event Log Analyzer](https://github.com/Sudhakar-reddy20/threatlens/tree/portfolio/threatlens-soc-upgrade/projects/windows-event-log-analyzer)
+
+A Python defensive-security project for analyzing exported Windows Security Event XML.
+
+- Parses selected Windows Security events (4624, 4625, 4720, 4728, 4732, 1102).
+- Detects repeated failed logons and successful logons following failures.
+- Flags user creation, security-group membership changes, and audit-log clearing for review.
+- Generates JSON and CSV investigation reports.
+- Includes synthetic XML data and automated tests.
 
 ## `root@sudhakar:~$ tech --arsenal`
 
