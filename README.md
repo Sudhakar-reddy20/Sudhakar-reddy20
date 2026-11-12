@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Onteddu Sudhakar Reddy | SOC Analyst Portfolio" width="100%" />
+<img src="https://raw.githubusercontent.com/Sudhakar-reddy20/Sudhakar-reddy20/main/assets/soc-animated-banner.svg" alt="Onteddu Sudhakar Reddy | SOC Analyst Portfolio" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Sudhakar-reddy20"><img src="https://img.shields.io/badge/GitHub-Security%20Projects-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://sudhakar-reddy20.github.io/Sudhakar-reddy20/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
   <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Blue%20Team-0F766E?style=flat" alt="SOC and Blue Team" />
 </p>
 
@@ -14,7 +15,7 @@
 
 ---
 
-## Professional summary
+## Interactive portfolio website\n\nExplore the animated SOC analyst portfolio: [Open the website](https://sudhakar-reddy20.github.io/Sudhakar-reddy20/). It features responsive layouts, scroll-reveal sections, subtle 3D project-card motion, and a simulated SOC dashboard clearly labelled as illustrative rather than live telemetry.\n\n## Professional summary
 
 I am a final-year B.Tech Computer Science student focused on developing practical capabilities for a **Security Operations Center (SOC)** role. I am building hands-on experience in security event analysis, authentication monitoring, alert investigation, Linux and Windows security, networking fundamentals, and Python automation.
 
