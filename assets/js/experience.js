@@ -1,11 +1,11 @@
-import * as THREE from "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js";
-
 const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 const canvas = document.querySelector("#security-scene");
 const fallback = document.querySelector(".scene-fallback");
 
 async function buildScene() {
   if (!canvas || !window.WebGLRenderingContext) return;
+  // Load Three.js only for the 3D scene; the rest of the page must work if the CDN is unavailable.
+  const THREE = await import("https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js");
   const host = canvas.parentElement;
   const scene = new THREE.Scene();
   const camera = new THREE.PerspectiveCamera(34, 1, 0.1, 100);
@@ -159,6 +159,7 @@ updateMeter();
 
 const toggle = document.querySelector(".nav-toggle");
 const nav = document.querySelector(".main-nav");
+toggle?.setAttribute("aria-expanded", "false");
 toggle?.addEventListener("click", () => {
   const open = nav.classList.toggle("open");
   toggle.setAttribute("aria-expanded", String(open));
