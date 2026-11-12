@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+<title id="t">Onteddu Sudhakar Reddy — SOC Analyst</title><desc id="d">Animated network-inspired cybersecurity banner for a defensive security portfolio.</desc>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset="1" stop-color="#14283b"/></linearGradient><linearGradient id="a"><stop stop-color="#45e0c2"/><stop offset="1" stop-color="#6db8ff"/></linearGradient><pattern id="g" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#9bbccc" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="320" rx="18" fill="url(#b)"/><rect width="1200" height="320" rx="18" fill="url(#g)"/>
+<g fill="none" stroke="url(#a)" stroke-width="2" opacity=".55"><path d="M830 70L960 120L1085 68L1150 150L1035 235L900 195Z"><animate attributeName="stroke-opacity" values=".25;.8;.25" dur="4s" repeatCount="indefinite"/></path><path d="M960 120L1035 235M1085 68L1035 235M900 195L1150 150"/></g>
+<g fill="#45e0c2"><circle cx="830" cy="70" r="5"><animate attributeName="r" values="4;7;4" dur="2.5s" repeatCount="indefinite"/></circle><circle cx="960" cy="120" r="5"/><circle cx="1085" cy="68" r="5"/><circle cx="1150" cy="150" r="5"/><circle cx="1035" cy="235" r="5"/><circle cx="900" cy="195" r="5"/></g>
+<rect x="72" y="64" width="4" height="192" rx="2" fill="url(#a)"/>
+<text x="104" y="126" fill="#f0f8fa" font-family="Arial,sans-serif" font-size="46" font-weight="700">ONTEDDU SUDAKHAR REDDY</text>
+<text x="106" y="174" fill="#5eead4" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="3">SOC ANALYST PORTFOLIO</text>
+<text x="106" y="215" fill="#d2dce8" font-family="Arial,sans-serif" font-size="17">SECURITY MONITORING / LOG ANALYSIS / INCIDENT TRIAGE</text>
+<text x="106" y="266" fill="#91a4b9" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">BLUE TEAM • DETECTION • DEFENSIVE SECURITY</text>
+<path d="M72 289H1128" stroke="#45e0c2" stroke-opacity=".35"><animate attributeName="stroke-opacity" values=".15;.55;.15" dur="3s" repeatCount="indefinite"/></path>
+</svg>
