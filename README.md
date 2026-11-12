@@ -81,7 +81,7 @@ An evidence-driven Python SOC log analysis and threat detection platform.
 [![Open ThreatLens](https://img.shields.io/badge/OPEN%20PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=07140b)](https://github.com/Sudhakar-reddy20/threatlens)
 
 
-### [Windows Event Log Analyzer](https://github.com/Sudhakar-reddy20/threatlens/tree/portfolio/threatlens-soc-upgrade/projects/windows-event-log-analyzer)
+### [Windows Event Log Analyzer](https://github.com/Sudhakar-reddy20/threatlens/tree/main/projects/windows-event-log-analyzer)
 
 A Python defensive-security project for analyzing exported Windows Security Event XML.
 
