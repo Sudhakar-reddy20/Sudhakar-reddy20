@@ -79,4 +79,36 @@
     }, { rootMargin: '-35% 0px -55% 0px' });
     sections.forEach((section) => sectionObserver.observe(section));
   }
+
+  // Depth-aware scroll choreography: foreground and background move at different rates.
+  if (!reduceMotion) {
+    const depthNodes = document.querySelectorAll('.hero-copy,.hero-stage,.section-title,.section-copy,.expertise-card,.work-card,.tool-entry,.principle-row,.contact-heading,.contact-copy');
+    let scrollQueued = false;
+    const updateDepth = () => {
+      const vh = window.innerHeight || 1;
+      depthNodes.forEach((node) => {
+        const rect = node.getBoundingClientRect();
+        const center = rect.top + rect.height / 2;
+        const depth = Math.max(-1, Math.min(1, (center - vh / 2) / vh));
+        node.style.setProperty('--scroll-depth', depth.toFixed(3));
+      });
+      scrollQueued = false;
+    };
+    window.addEventListener('scroll', () => {
+      if (!scrollQueued) { scrollQueued = true; requestAnimationFrame(updateDepth); }
+    }, { passive: true });
+    updateDepth();
+    if (window.matchMedia('(pointer:fine)').matches) {
+      document.querySelectorAll('.expertise-card,.work-card,.tool-entry,.principle-row').forEach((card) => {
+        card.addEventListener('pointermove', (event) => {
+          const rect = card.getBoundingClientRect();
+          const x = (event.clientX - rect.left) / rect.width - .5;
+          const y = (event.clientY - rect.top) / rect.height - .5;
+          card.style.transform = 'perspective(1100px) rotateY(' + (x * 5) + 'deg) rotateX(' + (-y * 4) + 'deg) translateZ(12px)';
+        });
+        card.addEventListener('pointerleave', () => { card.style.transform = ''; });
+      });
+    }
+  }
+
 })();
