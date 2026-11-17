@@ -1,45 +1,57 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sudhakar-reddy20/sudhakar-portfolio/main/boot-photo.jpg" alt="Portfolio visual banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0b1d45,70:075985,100:00d4ff&height=230&section=header&text=ONTEDDU%20SUDHAKAR%20REDDY&fontSize=36&fontColor=EAF6FF&fontAlignY=35&desc=SOC%20ANALYST%20%7C%20BLUE%20TEAM%20%7C%20CYBERSECURITY&descSize=15&descAlignY=57&animation=twinkling" width="100%" alt="Animated cyber blue profile header" />
 
-<table>
-<tr>
-<td width="68%" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=650&color=35C9FF&center=true&vCenter=true&width=780&lines=%3E+INITIALIZING+SOC+ANALYST+PROFILE...;%3E+THREAT+HUNTING+%7C+LOG+ANALYSIS+%7C+DETECTION;%3E+INVESTIGATE.+VALIDATE.+DOCUMENT.;%3E+BUILDING+DEFENSIVE+SECURITY+SKILLS." alt="Animated terminal typing sequence" />
 
-# ONTEDDU SUDHAKAR REDDY
+<br/>
 
-### SOC Analyst · Cybersecurity · Blue Team
+<img src="https://raw.githubusercontent.com/Sudhakar-reddy20/sudhakar-portfolio/main/photo.jpg" width="175" alt="Portrait of Onteddu Sudhakar Reddy" />
 
-Final-year B.Tech Computer Science & Engineering student building practical defensive-security skills through hands-on labs, log analysis, detection engineering, and security projects.
+<br/>
 
-<a href="https://sudhakar-reddy20.github.io/sudhakar-portfolio/"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-3AA0FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio" /></a>
-<a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://sudhakar-reddy20.github.io/sudhakar-portfolio/"><img src="https://img.shields.io/badge/ACCESS%20PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Sudhakar-reddy20"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Sudhakar-reddy20/sudhakar-portfolio/main/photo.jpg" alt="Portrait of Onteddu Sudhakar Reddy" width="220" />
-
-**Guntur, Andhra Pradesh, India**  
-B.Tech CSE · Expected 2027
-
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=Sudhakar-reddy20&style=flat-square&color=00BFFF&label=PROFILE+SCANS" alt="Profile views" />
 
 </div>
 
 ---
 
-## / 01 — PROFILE
+<div align="center">
 
-I am working towards an entry-level **SOC Analyst / Junior Security Analyst** role. My focus is on understanding how security events become alerts, validating those alerts with evidence, investigating suspicious authentication activity, and documenting findings clearly.
+### [ SYSTEM STATUS: ONLINE ]
 
-I learn by building and testing: writing Python detection logic, analyzing Linux and Windows event data, practicing in controlled labs, and improving investigations based on the evidence.
+| ROLE TARGET | SPECIALIZATION | BASE |
+|:---:|:---:|:---:|
+| SOC Analyst / Junior Security Analyst | Defensive Security · Blue Team | Guntur, India |
 
-> **Analyst mindset:** An alert is an investigative lead — not proof of compromise. Validate the evidence, preserve context, and document the conclusion.
+**Final-year B.Tech Computer Science & Engineering · Expected 2027**
 
-## / 02 — FEATURED SECURITY WORK
+</div>
+
+## 01 // OPERATOR PROFILE
+
+Final-year B.Tech CSE student building practical defensive-security skills through hands-on labs, log analysis, detection engineering, and security projects.
+
+My focus is understanding how security events become alerts, validating those alerts with evidence, investigating suspicious authentication activity, and documenting findings clearly.
+
+> **ANALYST RULE:** An alert is an investigative lead — not proof of compromise. Validate the evidence, preserve context, and document the conclusion.
+
+## 02 // LIVE SECURITY CONSOLE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sudhakar-reddy20&show_icons=true&hide_border=true&bg_color=050816&title_color=35C9FF&text_color=D7E7F5&icon_color=00E5A8&include_all_commits=true" height="165" alt="GitHub profile statistics" />
+<img src="https://streak-stats.demolab.com?user=Sudhakar-reddy20&hide_border=true&background=050816&ring=35C9FF&fire=00E5A8&currStreakLabel=35C9FF&sideLabels=D7E7F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A9BB0" height="165" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhakar-reddy20&bg_color=050816&color=35C9FF&line=00E5A8&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub activity graph" />
+
+</div>
+
+## 03 // FEATURED SECURITY OPERATIONS
 
 <table>
 <tr>
@@ -49,7 +61,7 @@ I learn by building and testing: writing Python detection logic, analyzing Linux
 
 **Linux SSH Authentication Log Analyzer**
 
-A Python CLI tool that analyzes Linux SSH authentication logs and highlights suspicious authentication patterns.
+Python CLI tool that analyzes Linux SSH authentication logs and highlights suspicious authentication patterns.
 
 - Repeated failed-login detection
 - Success-after-failure correlation
@@ -57,7 +69,7 @@ A Python CLI tool that analyzes Linux SSH authentication logs and highlights sus
 - JSON and CSV investigation reports
 - Automated tests for detection logic
 
-**Python · Linux · Detection Engineering**
+PYTHON · LINUX · DETECTION ENGINEERING
 
 </td>
 <td width="50%" valign="top">
@@ -66,7 +78,7 @@ A Python CLI tool that analyzes Linux SSH authentication logs and highlights sus
 
 **Windows Security Event Investigation**
 
-A defensive utility for reviewing exported Windows Security Event XML and identifying activity that may need investigation.
+Defensive utility for reviewing exported Windows Security Event XML and identifying activity that may need investigation.
 
 - Failed and successful logon analysis
 - Account and group-change events
@@ -74,24 +86,24 @@ A defensive utility for reviewing exported Windows Security Event XML and identi
 - JSON and CSV reporting
 - Synthetic dataset and unit tests
 
-**Python · Windows Events · XML**
+PYTHON · WINDOWS EVENTS · XML
 
 </td>
 </tr>
 </table>
 
-## / 03 — SECURITY FOCUS
+## 04 // DEFENSIVE SECURITY MATRIX
 
-| Area | What I practise |
+| DOMAIN | CURRENT PRACTICE |
 |:--|:--|
 | **SOC operations** | Alert triage, event review, investigation notes, escalation thinking |
-| **Log analysis** | Linux SSH authentication logs and exported Windows Security events |
+| **Log analysis** | Linux SSH authentication logs, Windows Security events |
 | **Detection engineering** | Python rules, threshold logic, event correlation, test cases |
 | **Network security** | TCP/IP, DNS, HTTP/HTTPS, Wireshark, Nmap |
-| **Vulnerability assessment** | Learning web and infrastructure assessment in authorized labs |
+| **Vulnerability assessment** | Web and infrastructure assessment in authorized labs |
 | **Automation** | Python and Bash scripts for repeatable analysis |
 
-## / 04 — TECHNICAL TOOLKIT
+## 05 // TOOLKIT
 
 <div align="center">
 
@@ -99,23 +111,23 @@ A defensive utility for reviewing exported Windows Security Event XML and identi
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Nmap-2E6E9E?style=flat-square&logo=linux&logoColor=white" alt="Nmap" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/NMAP-2E6E9E?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/METASPLOIT-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
 
 </div>
 
 *I distinguish tools I am actively learning from tools I have used in completed projects or labs.*
 
-## / 05 — HANDS-ON LEARNING
+## 06 // ACTIVE TRAINING LOG
 
 - Building a portable Pocket SOC Lab with sample authentication logs and Python detections.
 - Practising defensive and offensive security fundamentals in controlled training environments.
 - Strengthening Linux, Windows, networking, and incident-investigation foundations.
 - Improving technical reporting with timelines, supporting evidence, and clear conclusions.
 
-## / 06 — CURRENT DIRECTION
+## 07 // MISSION OBJECTIVE
 
 **Target role:** SOC Analyst / Junior Security Analyst
 
@@ -127,13 +139,12 @@ I welcome opportunities to learn from security professionals, collaborate on pra
 
 <div align="center">
 
-### LET'S CONNECT
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=800&color=00E5A8&center=true&vCenter=true&width=700&lines=END+OF+TRANSMISSION.;STAY+CURIOUS.+THINK+LIKE+AN+ANALYST.;DETECT+EARLY.+INVESTIGATE+DEEPLY." alt="Animated sign-off" />
 
-<a href="https://sudhakar-reddy20.github.io/sudhakar-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20website-3AA0FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Sudhakar-reddy20"><img src="https://img.shields.io/badge/GITHUB-Explore%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+<a href="https://sudhakar-reddy20.github.io/sudhakar-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20WEBSITE-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+<a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:075985,100:050816&height=120&section=footer&animation=twinkling" width="100%" alt="Animated blue footer" />
 
 <sub>SECURITY OPERATIONS · EVIDENCE-BASED INVESTIGATION · CONTINUOUS LEARNING</sub>
 
