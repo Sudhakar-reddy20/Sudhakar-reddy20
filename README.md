@@ -58,6 +58,51 @@ Final-year B.Tech Computer Science & Engineering student focused on defensive se
 </tr>
 </table>
 
+## <code>RECRUITER QUICK SCAN / 30-SECOND OVERVIEW</code>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=650&color=67E8F9&center=true&vCenter=true&width=820&lines=I+TURN+SECURITY+EVENTS+INTO+INVESTIGABLE+SIGNALS.;PYTHON+AUTOMATION+%7C+LOG+ANALYSIS+%7C+BLUE+TEAM.;READY+TO+LEARN%2C+CONTRIBUTE+AND+GROW+IN+A+SOC." alt="Recruiter-focused animated introduction" />
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### DETECT
+
+**Linux authentication**
+
+Repeated failed logins and suspicious success-after-failure patterns.
+
+</td>
+<td align="center" width="33%">
+
+### INVESTIGATE
+
+**Windows telemetry**
+
+Review Security Event XML, account activity and audit events.
+
+</td>
+<td align="center" width="33%">
+
+### AUTOMATE
+
+**Python tooling**
+
+Build repeatable detection logic, tests and structured reports.
+
+</td>
+</tr>
+</table>
+
+<a href="https://sudhakar-reddy20.github.io/sudhakar-portfolio/"><img src="https://img.shields.io/badge/VIEW%20PROJECTS%20%26%20PORTFOLIO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio and projects" /></a>
+<a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/LET'S%20CONNECT-059669?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+
+<sub>INTERESTED IN ENTRY-LEVEL SOC ANALYST / JUNIOR SECURITY ANALYST OPPORTUNITIES</sub>
+
+</div>
+
 ## <code>01 / COMMAND CENTER</code>
 
 <div align="center">
