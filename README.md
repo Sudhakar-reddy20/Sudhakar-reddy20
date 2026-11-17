@@ -73,7 +73,17 @@ Final-year B.Tech Computer Science & Engineering student focused on defensive se
 
 </div>
 
-## <code>02 / SECURITY PROJECTS</code>
+## <code>02 / CONTRIBUTION DEFENSE GRID</code>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sudhakar-reddy20/Sudhakar-reddy20/output/github-contribution-grid-snake.gif" width="98%" alt="Animated snake moving through my GitHub contribution grid" />
+
+<sub>ANIMATED FROM MY CONTRIBUTION HISTORY · REGENERATED DAILY BY GITHUB ACTIONS</sub>
+
+</div>
+
+## <code>03 / SECURITY PROJECTS</code>
 
 <table>
 <tr>
