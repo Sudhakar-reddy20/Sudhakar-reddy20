@@ -64,8 +64,8 @@ Final-year B.Tech Computer Science & Engineering student focused on defensive se
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudhakar-reddy20&theme=github_dark" width="98%" alt="GitHub profile activity summary" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sudhakar-reddy20&show_icons=true&hide_border=true&bg_color=050B18&title_color=38BDF8&text_color=DCEAF7&icon_color=34D399&include_all_commits=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhakar-reddy20&layout=compact&hide_border=true&bg_color=050B18&title_color=38BDF8&text_color=DCEAF7" height="165" alt="Most used public repository languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudhakar-reddy20&theme=github_dark" height="165" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudhakar-reddy20&theme=github_dark" height="165" alt="Most used public repository languages" />
 
 <img src="https://streak-stats.demolab.com?user=Sudhakar-reddy20&hide_border=true&background=050B18&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideLabels=DCEAF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
 
