@@ -110,6 +110,8 @@ Build repeatable detection logic, tests and structured reports.
 
 <img src="https://img.shields.io/badge/CASE-TL--2026--01-0B3954?style=for-the-badge&logo=shield&logoColor=white" alt="ThreatLens case file TL-2026-01" />
 <img src="https://img.shields.io/badge/DATA-SYNTHETIC-075985?style=for-the-badge" alt="Synthetic training data" />
+<a href="https://github.com/Sudhakar-reddy20/threatlens/actions/workflows/portfolio-tests.yml"><img src="https://github.com/Sudhakar-reddy20/threatlens/actions/workflows/portfolio-tests.yml/badge.svg?branch=main" alt="ThreatLens and Windows analyzer CI tests" /></a>
+
 <img src="https://img.shields.io/badge/WORKFLOW-LOGS%20→%20DETECTION%20→%20EVIDENCE-047857?style=for-the-badge" alt="Log investigation workflow" />
 
 </div>
@@ -166,6 +168,8 @@ The included dataset has 11 lines: 10 supported SSH authentication events and on
 </div>
 
 ## <code>02 / SECURITY PROJECTS</code>
+
+<sub>Automated test workflow: [view CI history](https://github.com/Sudhakar-reddy20/threatlens/actions/workflows/portfolio-tests.yml).</sub>
 
 <table>
 <tr>
