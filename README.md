@@ -39,6 +39,7 @@ Final-year B.Tech Computer Science & Engineering student focused on defensive se
 - **Education:** B.Tech CSE · Expected 2027
 - **Location:** Guntur, Andhra Pradesh, India
 - **Approach:** Evidence first. Conclusions second.
+- **Graduation:** 2027 · Open to internships and entry-level opportunities.
 
 </td>
 <td width="42%" valign="top">
@@ -209,7 +210,23 @@ A defensive utility for reviewing exported Windows Security Event XML and identi
 </tr>
 </table>
 
-## <code>03 / DETECTION & INVESTIGATION CAPABILITIES</code>
+## <code>03 / EXPERIENCE & PROFESSIONAL DEVELOPMENT</code>
+
+| EXPERIENCE | DETAILS |
+|:--|:--|
+| **Datavalley** | IoT internship |
+| **ExcelR** | Full Stack Java / MERN internship |
+
+*Internship titles, dates, and project outcomes can be added once verified; no unconfirmed responsibilities are claimed here.*
+
+### TRAINING & HANDS-ON LABS
+
+- **TryHackMe:** Search Skills · Defensive Security Intro · Offensive Security Intro
+- **Hackversity:** 100+ hands-on labs completed, as reported by me
+
+*These are listed as training and lab practice, not as professional certifications.*
+
+## <code>04 / DETECTION & INVESTIGATION CAPABILITIES</code>
 
 | SECURITY AREA | HANDS-ON FOCUS |
 |:--|:--|
@@ -224,7 +241,7 @@ A defensive utility for reviewing exported Windows Security Event XML and identi
 > **INVESTIGATION PRINCIPLE**  
 > An alert is a lead, not a verdict. Establish a timeline, correlate relevant events, validate evidence, and record what the data actually supports.
 
-## <code>04 / TOOL ARSENAL</code>
+## <code>05 / TOOL ARSENAL</code>
 
 <div align="center">
 
@@ -241,7 +258,7 @@ A defensive utility for reviewing exported Windows Security Event XML and identi
 
 *Tools shown reflect my learning and project experience; I continue to build depth through practice.*
 
-## <code>05 / TRAINING ENVIRONMENT</code>
+## <code>06 / TRAINING ENVIRONMENT</code>
 
 ```text
 POCKET SOC LAB
@@ -261,13 +278,21 @@ LEARNING TRACK
 +-- Technical reporting
 ```
 
-## <code>06 / CURRENT MISSION</code>
+## <code>07 / CURRENT MISSION</code>
 
-**Target:** Entry-level SOC Analyst / Junior Security Analyst
+**Target:** SOC Analyst / Junior Security Analyst
+
+**Availability:** Open to internships and entry-level opportunities.
 
 **Building depth in:** Windows event investigation · Network traffic analysis · Alert triage · Detection logic · Incident documentation.
 
 I welcome opportunities to learn from security professionals, collaborate on practical projects, and contribute to a defensive-security team.
+
+## <code>08 / CONTACT</code>
+
+- **Email:** [Sudhakar1558796@gmail.com](mailto:Sudhakar1558796@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sudhakar-reddy1920](https://www.linkedin.com/in/sudhakar-reddy1920)
+- **Portfolio:** [sudhakar-reddy20.github.io/sudhakar-portfolio](https://sudhakar-reddy20.github.io/sudhakar-portfolio/)
 
 ---
 
