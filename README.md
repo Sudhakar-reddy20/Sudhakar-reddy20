@@ -1,57 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0b1d45,70:075985,100:00d4ff&height=230&section=header&text=ONTEDDU%20SUDHAKAR%20REDDY&fontSize=36&fontColor=EAF6FF&fontAlignY=35&desc=SOC%20ANALYST%20%7C%20BLUE%20TEAM%20%7C%20CYBERSECURITY&descSize=15&descAlignY=57&animation=twinkling" width="100%" alt="Animated cyber blue profile header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,25:082f49,55:075985,80:0e7490,100:020617&height=260&section=header&text=SUDHAKAR%20REDDY&fontSize=58&fontColor=E0F7FF&fontAlignY=42&desc=SECURITY%20OPERATIONS%20%2F%2F%20BLUE%20TEAM&descSize=17&descColor=67E8F9&descAlignY=63&animation=twinkling" width="100%" alt="Animated blue SOC command-center banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=650&color=35C9FF&center=true&vCenter=true&width=780&lines=%3E+INITIALIZING+SOC+ANALYST+PROFILE...;%3E+THREAT+HUNTING+%7C+LOG+ANALYSIS+%7C+DETECTION;%3E+INVESTIGATE.+VALIDATE.+DOCUMENT.;%3E+BUILDING+DEFENSIVE+SECURITY+SKILLS." alt="Animated terminal typing sequence" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Sudhakar-reddy20/sudhakar-portfolio/main/photo.jpg" width="175" alt="Portrait of Onteddu Sudhakar Reddy" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1900&pause=550&color=67E8F9&center=true&vCenter=true&width=850&lines=%5BSYSTEM%5D+BOOTING+ANALYST+WORKSPACE...;%5BSOC%5D+MONITORING+%7C+TRIAGE+%7C+INVESTIGATION;%5BBLUE+TEAM%5D+DETECT.+VALIDATE.+RESPOND.;%5BSTATUS%5D+LEARNING+IN+PROGRESS_" alt="Animated SOC terminal status" />
 
 <br/>
 
-<a href="https://sudhakar-reddy20.github.io/sudhakar-portfolio/"><img src="https://img.shields.io/badge/ACCESS%20PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://raw.githubusercontent.com/Sudhakar-reddy20/sudhakar-portfolio/main/photo.jpg" width="155" alt="Portrait of Onteddu Sudhakar Reddy" />
+
+<br/>
+
+<a href="https://sudhakar-reddy20.github.io/sudhakar-portfolio/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Sudhakar-reddy20"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Sudhakar-reddy20&style=flat-square&color=00BFFF&label=PROFILE+SCANS" alt="Profile views" />
+<br/>
+
+<img src="https://img.shields.io/badge/OPERATOR-SUDHAKAR-0B3954?style=flat-square" alt="Operator" />
+<img src="https://img.shields.io/badge/FOCUS-SOC%20ANALYST-075985?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/MODE-BLUE%20TEAM-047857?style=flat-square" alt="Mode" />
+<img src="https://komarev.com/ghpvc/?username=Sudhakar-reddy20&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### <code>OPERATOR IDENTIFICATION</code>
+
+**ONTEDDU SUDHAKAR REDDY**
+
+Final-year B.Tech Computer Science & Engineering student focused on defensive security, practical SOC skills, log analysis, and detection engineering.
+
+- **Mission:** SOC Analyst / Junior Security Analyst
+- **Education:** B.Tech CSE · Expected 2027
+- **Location:** Guntur, Andhra Pradesh, India
+- **Approach:** Evidence first. Conclusions second.
+
+</td>
+<td width="42%" valign="top">
+
+### <code>CONSOLE STATUS</code>
+
+```text
+[ PROFILE ]   ONLINE
+[ DOMAIN  ]   CYBERSECURITY
+[ TEAM    ]   BLUE TEAM
+[ FOCUS   ]   SOC OPERATIONS
+[ MODE    ]   HANDS-ON LEARNING
+[ ALERTS  ]   INVESTIGATE
+```
+
+</td>
+</tr>
+</table>
+
+## <code>01 / COMMAND CENTER</code>
+
 <div align="center">
 
-### [ SYSTEM STATUS: ONLINE ]
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudhakar-reddy20&theme=github_dark" width="98%" alt="GitHub profile activity summary" />
 
-| ROLE TARGET | SPECIALIZATION | BASE |
-|:---:|:---:|:---:|
-| SOC Analyst / Junior Security Analyst | Defensive Security · Blue Team | Guntur, India |
+<img src="https://github-readme-stats.vercel.app/api?username=Sudhakar-reddy20&show_icons=true&hide_border=true&bg_color=050B18&title_color=38BDF8&text_color=DCEAF7&icon_color=34D399&include_all_commits=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhakar-reddy20&layout=compact&hide_border=true&bg_color=050B18&title_color=38BDF8&text_color=DCEAF7" height="165" alt="Most used public repository languages" />
 
-**Final-year B.Tech Computer Science & Engineering · Expected 2027**
+<img src="https://streak-stats.demolab.com?user=Sudhakar-reddy20&hide_border=true&background=050B18&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideLabels=DCEAF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhakar-reddy20&bg_color=050B18&color=38BDF8&line=34D399&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
 
 </div>
 
-## 01 // OPERATOR PROFILE
-
-Final-year B.Tech CSE student building practical defensive-security skills through hands-on labs, log analysis, detection engineering, and security projects.
-
-My focus is understanding how security events become alerts, validating those alerts with evidence, investigating suspicious authentication activity, and documenting findings clearly.
-
-> **ANALYST RULE:** An alert is an investigative lead — not proof of compromise. Validate the evidence, preserve context, and document the conclusion.
-
-## 02 // LIVE SECURITY CONSOLE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sudhakar-reddy20&show_icons=true&hide_border=true&bg_color=050816&title_color=35C9FF&text_color=D7E7F5&icon_color=00E5A8&include_all_commits=true" height="165" alt="GitHub profile statistics" />
-<img src="https://streak-stats.demolab.com?user=Sudhakar-reddy20&hide_border=true&background=050816&ring=35C9FF&fire=00E5A8&currStreakLabel=35C9FF&sideLabels=D7E7F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A9BB0" height="165" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhakar-reddy20&bg_color=050816&color=35C9FF&line=00E5A8&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub activity graph" />
-
-</div>
-
-## 03 // FEATURED SECURITY OPERATIONS
+## <code>02 / SECURITY PROJECTS</code>
 
 <table>
 <tr>
@@ -59,9 +81,11 @@ My focus is understanding how security events become alerts, validating those al
 
 ### <a href="https://github.com/Sudhakar-reddy20/threatlens">THREATLENS</a>
 
-**Linux SSH Authentication Log Analyzer**
+<img src="https://img.shields.io/badge/PROJECT-LINUX%20LOG%20ANALYSIS-075985?style=flat-square" alt="Linux log analysis" />
 
-Python CLI tool that analyzes Linux SSH authentication logs and highlights suspicious authentication patterns.
+**SSH Authentication Log Analyzer**
+
+A Python CLI tool that analyzes Linux SSH authentication logs and highlights suspicious authentication patterns.
 
 - Repeated failed-login detection
 - Success-after-failure correlation
@@ -69,16 +93,18 @@ Python CLI tool that analyzes Linux SSH authentication logs and highlights suspi
 - JSON and CSV investigation reports
 - Automated tests for detection logic
 
-PYTHON · LINUX · DETECTION ENGINEERING
+**Stack:** Python · Linux · Detection Engineering
 
 </td>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/Sudhakar-reddy20/threatlens/tree/main/projects/windows-event-log-analyzer">WINDOWS EVENT LOG ANALYZER</a>
 
+<img src="https://img.shields.io/badge/PROJECT-WINDOWS%20EVENTS-075985?style=flat-square" alt="Windows event analysis" />
+
 **Windows Security Event Investigation**
 
-Defensive utility for reviewing exported Windows Security Event XML and identifying activity that may need investigation.
+A defensive utility for reviewing exported Windows Security Event XML and identifying activity that may need investigation.
 
 - Failed and successful logon analysis
 - Account and group-change events
@@ -86,24 +112,28 @@ Defensive utility for reviewing exported Windows Security Event XML and identify
 - JSON and CSV reporting
 - Synthetic dataset and unit tests
 
-PYTHON · WINDOWS EVENTS · XML
+**Stack:** Python · Windows Events · XML
 
 </td>
 </tr>
 </table>
 
-## 04 // DEFENSIVE SECURITY MATRIX
+## <code>03 / DETECTION & INVESTIGATION CAPABILITIES</code>
 
-| DOMAIN | CURRENT PRACTICE |
+| SECURITY AREA | HANDS-ON FOCUS |
 |:--|:--|
-| **SOC operations** | Alert triage, event review, investigation notes, escalation thinking |
-| **Log analysis** | Linux SSH authentication logs, Windows Security events |
-| **Detection engineering** | Python rules, threshold logic, event correlation, test cases |
-| **Network security** | TCP/IP, DNS, HTTP/HTTPS, Wireshark, Nmap |
-| **Vulnerability assessment** | Web and infrastructure assessment in authorized labs |
+| **SOC workflow** | Alert triage, event review, investigation notes, escalation thinking |
+| **Authentication analysis** | Failed logons, success-after-failure patterns, source context |
+| **Windows telemetry** | Security Event XML, account changes, audit events |
+| **Detection engineering** | Python rules, thresholds, event correlation, test cases |
+| **Network fundamentals** | TCP/IP, DNS, HTTP/HTTPS, Wireshark, Nmap |
+| **Security assessment** | Web and infrastructure assessment in authorized labs |
 | **Automation** | Python and Bash scripts for repeatable analysis |
 
-## 05 // TOOLKIT
+> **INVESTIGATION PRINCIPLE**  
+> An alert is a lead, not a verdict. Establish a timeline, correlate relevant events, validate evidence, and record what the data actually supports.
+
+## <code>04 / TOOL ARSENAL</code>
 
 <div align="center">
 
@@ -118,34 +148,47 @@ PYTHON · WINDOWS EVENTS · XML
 
 </div>
 
-*I distinguish tools I am actively learning from tools I have used in completed projects or labs.*
+*Tools shown reflect my learning and project experience; I continue to build depth through practice.*
 
-## 06 // ACTIVE TRAINING LOG
+## <code>05 / TRAINING ENVIRONMENT</code>
 
-- Building a portable Pocket SOC Lab with sample authentication logs and Python detections.
-- Practising defensive and offensive security fundamentals in controlled training environments.
-- Strengthening Linux, Windows, networking, and incident-investigation foundations.
-- Improving technical reporting with timelines, supporting evidence, and clear conclusions.
+```text
+POCKET SOC LAB
+|
++-- Sample Linux authentication logs
++-- Python failed-login detection
++-- Failure-to-success correlation
++-- Investigation notes and evidence
++-- Repeatable local practice on macOS
 
-## 07 // MISSION OBJECTIVE
+LEARNING TRACK
+|
++-- Linux & Windows fundamentals
++-- TCP/IP, DNS & HTTP/S
++-- Defensive security & alert triage
++-- Controlled security labs
++-- Technical reporting
+```
 
-**Target role:** SOC Analyst / Junior Security Analyst
+## <code>06 / CURRENT MISSION</code>
 
-**Currently strengthening:** Windows event investigation · Network traffic analysis · Alert triage · Detection logic · Incident documentation
+**Target:** Entry-level SOC Analyst / Junior Security Analyst
 
-I welcome opportunities to learn from security professionals, collaborate on practical projects, and contribute to an entry-level SOC or defensive-security team.
+**Building depth in:** Windows event investigation · Network traffic analysis · Alert triage · Detection logic · Incident documentation.
+
+I welcome opportunities to learn from security professionals, collaborate on practical projects, and contribute to a defensive-security team.
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=800&color=00E5A8&center=true&vCenter=true&width=700&lines=END+OF+TRANSMISSION.;STAY+CURIOUS.+THINK+LIKE+AN+ANALYST.;DETECT+EARLY.+INVESTIGATE+DEEPLY." alt="Animated sign-off" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2100&pause=700&color=34D399&center=true&vCenter=true&width=780&lines=%5BSESSION+END%5D+STAY+CURIOUS.;%5BBLUE+TEAM%5D+DETECT.+INVESTIGATE.+IMPROVE.;%5BSYSTEM%5D+CONTINUOUS+LEARNING..." alt="Animated closing terminal" />
 
-<a href="https://sudhakar-reddy20.github.io/sudhakar-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN%20WEBSITE-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
-<a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://sudhakar-reddy20.github.io/sudhakar-portfolio/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio" /></a>
+<a href="https://www.linkedin.com/in/sudhakar-reddy1920"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:075985,100:050816&height=120&section=footer&animation=twinkling" width="100%" alt="Animated blue footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:075985,75:0e7490,100:020617&height=150&section=footer&animation=twinkling" width="100%" alt="Animated command-center footer" />
 
-<sub>SECURITY OPERATIONS · EVIDENCE-BASED INVESTIGATION · CONTINUOUS LEARNING</sub>
+<sub>ONTEDDU SUDHAKAR REDDY · SECURITY OPERATIONS · EVIDENCE-BASED INVESTIGATION</sub>
 
 </div>
