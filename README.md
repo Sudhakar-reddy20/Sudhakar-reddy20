@@ -103,6 +103,52 @@ Build repeatable detection logic, tests and structured reports.
 
 </div>
 
+## <code>FEATURED SOC CASE FILE / THREATLENS</code>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CASE-TL--2026--01-0B3954?style=for-the-badge&logo=shield&logoColor=white" alt="ThreatLens case file TL-2026-01" />
+<img src="https://img.shields.io/badge/DATA-SYNTHETIC-075985?style=for-the-badge" alt="Synthetic training data" />
+<img src="https://img.shields.io/badge/WORKFLOW-LOGS%20→%20DETECTION%20→%20EVIDENCE-047857?style=for-the-badge" alt="Log investigation workflow" />
+
+</div>
+
+**A practical investigation walkthrough from my ThreatLens project.** I built a Python CLI analyzer that parses Linux SSH authentication logs, applies configurable detection rules, preserves matching source lines, and exports JSON/CSV reports.
+
+| Detection | Evidence in the training dataset | Analyst interpretation |
+|:--|:--|:--|
+| **TL-SSH-001 · HIGH** | Five failed SSH attempts from `192.0.2.50` targeting `admin` and `root` | Password-guessing pattern to validate |
+| **TL-SSH-002 · CRITICAL** | Three failures followed by a successful password login from `198.51.100.25` for `testuser` | Promptly verify the account activity |
+
+<details>
+<summary><strong>Open the analyst's investigation workflow</strong></summary>
+
+1. **Triage:** identify the source IP, targeted account names, timestamps, and matching events.
+2. **Validate context:** check whether the source is an approved scanner, jump host, or known endpoint.
+3. **Correlate:** review nearby authentication, endpoint, identity, and network activity.
+4. **Preserve evidence:** retain original log lines and generated JSON/CSV reports.
+5. **Reach a careful verdict:** suspicious authentication patterns are investigation leads—not proof of compromise.
+
+**Reproduce the analysis:**
+
+```bash
+python -m pip install -e ".[dev]"
+threatlens analyze sample_logs/auth.log --year 2026
+```
+
+The included dataset has 11 lines: 10 supported SSH authentication events and one unsupported connection-close event. It is synthetic and uses documentation-only IP ranges; it is not a real incident.
+
+</details>
+
+<div align="center">
+
+<a href="https://github.com/Sudhakar-reddy20/threatlens"><img src="https://img.shields.io/badge/EXPLORE%20THREATLENS-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore ThreatLens source code" /></a>
+<a href="https://github.com/Sudhakar-reddy20/threatlens/blob/main/docs/sample-investigation.md"><img src="https://img.shields.io/badge/READ%20FULL%20CASE%20STUDY-059669?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read full case study" /></a>
+
+</div>
+
+---
+
 ## <code>01 / COMMAND CENTER</code>
 
 <div align="center">
